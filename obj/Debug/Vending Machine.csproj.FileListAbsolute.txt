@@ -1,0 +1,16 @@
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\bin\Debug\Vending Machine.exe.config
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending Machine.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending_Machine.Properties.Resources.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending Machine.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending Machine.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending Machine.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending_Machine.Home.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending_Machine.Food.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\bin\Debug\NuGet.Frameworks.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\bin\Debug\NuGet.Frameworks.xml
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending Machine.csproj.CopyComplete
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\Vending Machine\obj\Debug\Vending_Machine.Form1.resources

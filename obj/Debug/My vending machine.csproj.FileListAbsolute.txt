@@ -1,0 +1,30 @@
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My vending machine.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My vending machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My_vending_machine.Controls.FoodUserControl.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My_vending_machine.Properties.Resources.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My vending machine.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My vending machine.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My_vending_machine.ScreensControls.DrinksUserControl.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My_vending_machine.ScreensControls.BalanceUserControl.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\bin\Debug\My vending machine.exe.config
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\bin\Debug\My vending machine.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\bin\Debug\My vending machine.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My vending machine.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\My vending machine.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\Vending_Machine.products.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Lessons\My vending machine\obj\Debug\Vending_Machine.Home.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\bin\Debug\My vending machine.exe.config
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\bin\Debug\My vending machine.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\bin\Debug\My vending machine.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My vending machine.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My vending machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My_vending_machine.ScreensControls.BalanceUserControl.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My_vending_machine.ScreensControls.DrinksUserControl.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My_vending_machine.Controls.FoodUserControl.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\Vending_Machine.products.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\Vending_Machine.Home.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My_vending_machine.Properties.Resources.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My vending machine.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My vending machine.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My vending machine.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Programação\C#\Projetos\My vending machine\obj\Debug\My vending machine.pdb
